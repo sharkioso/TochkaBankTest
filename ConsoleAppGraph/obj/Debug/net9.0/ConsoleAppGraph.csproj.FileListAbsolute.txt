@@ -1,0 +1,14 @@
+c:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\bin\Debug\net9.0\ConsoleAppGraph.exe
+C:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\bin\Debug\net9.0\ConsoleAppGraph.deps.json
+C:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\bin\Debug\net9.0\ConsoleAppGraph.runtimeconfig.json
+c:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\bin\Debug\net9.0\ConsoleAppGraph.dll
+c:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\bin\Debug\net9.0\ConsoleAppGraph.pdb
+c:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\obj\Debug\net9.0\ConsoleAppGraph.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\obj\Debug\net9.0\ConsoleAppGraph.AssemblyInfoInputs.cache
+c:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\obj\Debug\net9.0\ConsoleAppGraph.AssemblyInfo.cs
+c:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\obj\Debug\net9.0\ConsoleAppGraph.csproj.CoreCompileInputs.cache
+c:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\obj\Debug\net9.0\ConsoleAppGraph.dll
+c:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\obj\Debug\net9.0\refint\ConsoleAppGraph.dll
+c:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\obj\Debug\net9.0\ConsoleAppGraph.pdb
+C:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\obj\Debug\net9.0\ConsoleAppGraph.genruntimeconfig.cache
+C:\Users\User\Desktop\sharpPrac\ConsoleAppGraph\obj\Debug\net9.0\ref\ConsoleAppGraph.dll
