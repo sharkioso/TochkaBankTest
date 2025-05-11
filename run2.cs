@@ -156,7 +156,7 @@ class Program
             if (currentDist > bestDistances.GetValueOrDefault(stateKey, int.MaxValue))
                 continue;
 
-            // Try moving each robot
+
             for (int robotIndex = 0; robotIndex < robotPositions.Count; robotIndex++)
             {
                 int currentNode = currentState.Position[robotIndex];
@@ -165,15 +165,12 @@ class Program
                 {
                     int keyBit = 1 << (edge.NextNode - robotPositions.Count);
 
-                    // Skip if we already have this key
                     if ((currentState.Keys & keyBit) != 0)
                         continue;
 
-                    // Skip if we don't have required keys
                     if ((edge.KeyMask & currentState.Keys) != edge.KeyMask)
                         continue;
 
-                    // Create new state
                     var newNodes = (int[])currentState.Position.Clone();
                     newNodes[robotIndex] = edge.NextNode;
 
